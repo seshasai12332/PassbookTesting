@@ -10,4 +10,4 @@ def home():
 
 
 if __name__ == '__main__':
-	app.run()
+	app.run(host="52.150.140.225")
